@@ -30,4 +30,5 @@ This syllabus covers a comprehensive range of topics from foundational concepts 
   Lab sessions exploring EIGRP (Enhanced Interior Gateway Routing Protocol) for dynamic routing.
 11. OSPF Multi-Area Lab: Understanding Link-State Routing with OSPF:
   Lab sessions centered around OSPF (Open Shortest Path First) protocol for understanding link-state routing in multiple areas.
-
+12. Introduction to VLSM
+  VLSM allows subnets to be of variable size within a single class A, B, or C network. It improves subnet usability by allocating subnet masks based on varying subnet size requirements.
