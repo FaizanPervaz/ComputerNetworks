@@ -85,6 +85,12 @@ router ospf 1
 Nat Commands : 
 ![WhatsApp Image 2023-12-06 at 13 42 33_e69f5165](https://github.com/FaizanPervaz/ComputerNetworks/assets/121532370/91b6b1b7-2c73-4b15-bda4-18644454187e)
 
+IP and Hosts Given to Me:
+![Screenshot 2023-12-06 205411](https://github.com/FaizanPervaz/ComputerNetworks/assets/121532370/9413c489-23ae-40e8-9c4b-1443ab208b4f)
+![Screenshot 2023-12-06 205427](https://github.com/FaizanPervaz/ComputerNetworks/assets/121532370/dcd77c5b-daaa-44dd-b7d8-8db8678eb121)
+
+
+
 
 
 
