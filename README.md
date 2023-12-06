@@ -32,3 +32,9 @@ This syllabus covers a comprehensive range of topics from foundational concepts 
   Lab sessions centered around OSPF (Open Shortest Path First) protocol for understanding link-state routing in multiple areas.
 12. Introduction to VLSM
   VLSM allows subnets to be of variable size within a single class A, B, or C network. It improves subnet usability by allocating subnet masks based on varying subnet size requirements.
+13. VLSM and DHCP
+  Combining Variable Length Subnet Masking (VLSM) and Dynamic Host Configuration Protocol (DHCP) for efficient IP address allocation and subnet management within complex networks.
+15. Access Control List
+  Utilizing Access Control Lists (ACLs) as gatekeepers to regulate network traffic, ensuring security by allowing or denying access based on predefined rules.
+17. Comprehensive Networks Project - Network Wizardry
+  A complex network implementation involving VLSM subnetting, routing protocols, ACLs, NAT configurations, and DHCP setups, emphasizing robust network design and security.
